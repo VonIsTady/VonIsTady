@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @VonIsTady
+- 👀 I’m interested in Java, JS, Python.
+- 🌱 I’m currently learning JS.
+- 💞️ MythValley
